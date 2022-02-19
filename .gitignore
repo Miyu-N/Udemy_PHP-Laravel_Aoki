@@ -5,3 +5,7 @@ test.php
 
 #DB接続
 db_connection.php
+
+#composer
+composer.json
+composer.lock
